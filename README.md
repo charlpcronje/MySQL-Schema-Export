@@ -4,6 +4,9 @@
 ## Description
 This Python script is designed to connect to a MySQL database, extract schema information, and display this data in both the console and a text file. It's particularly useful for database analysis and documentation purposes. The script gathers details about each table in the database, such as table names, column names, primary key status, foreign key references, and uniqueness constraints.
 
+## Detailed Code Explanation
+You can view the [code explanation here](./explained.md)
+
 ## Features
 - Extracts detailed schema information from a MySQL database.
 - Outputs the schema information to the console.
@@ -29,8 +32,8 @@ This Python script is designed to connect to a MySQL database, extract schema in
 1. If running the script for the first time, it will prompt you to enter your database connection details (host, user, password, database name). These details will be saved in a `.env` file.
 2. Run the script using Python:
 
-```
-python script_name.py
+```sh
+python main.py
 ```
 
 3. The script will connect to your database, extract the schema information, and display it in the console as well as write it to a file named `db_schema_output.txt`.
@@ -39,9 +42,10 @@ python script_name.py
 Contributions to enhance the functionality of this script are welcome. Feel free to fork the repository, make your changes, and create a pull request.
 
 ## Contact
-Charl Cronje
+- Author: Charl Cronje
 - Email: charl.cronje@mail.com
-- Project Link: [https://github.com/charlpcronje/Combine-Markdown-Docs.git](https://github.com/charlpcronje/Combine-Markdown-Docs.git)
+- LinkedIn: [https://www.linkedin.com/in/charlpcronje](https://www.linkedin.com/in/charlpcronje/)
+- GitHub Link: [https://github.com/charlpcronje/MySQL-Schema-Export](https://github.com/charlpcronje/MySQL-Schema-Export)
 
 ## License
 This project is open-source and available under the MIT License.

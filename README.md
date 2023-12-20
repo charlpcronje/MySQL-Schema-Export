@@ -45,7 +45,7 @@ Contributions to enhance the functionality of this script are welcome. Feel free
 - Author: Charl Cronje
 - Email: charl.cronje@mail.com
 - LinkedIn: [https://www.linkedin.com/in/charlpcronje](https://www.linkedin.com/in/charlpcronje/)
-- GitHub Link: [https://github.com/charlpcronje/MySQL-Schema-Export](https://github.com/charlpcronje/MySQL-Schema-Export)
+- GitHub Link: [https://github.com/charlpcronje/MySQL-Schema-Export.git](https://github.com/charlpcronje/MySQL-Schema-Export.git)
 
 ## License
 This project is open-source and available under the MIT License.

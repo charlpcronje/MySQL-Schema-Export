@@ -38,5 +38,11 @@ python script_name.py
 ## Contributing
 Contributions to enhance the functionality of this script are welcome. Feel free to fork the repository, make your changes, and create a pull request.
 
+## Contact
+Charl Cronje
+Email: charl.cronje@mail.com
+Project Link: [https://github.com/charlpcronje/Combine-Markdown-Docs.git](https://github.com/charlpcronje/Combine-Markdown-Docs.git)
+
 ## License
 This project is open-source and available under the MIT License.
+

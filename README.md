@@ -1,4 +1,3 @@
-
 # Database Schema & Relationships Export
 
 ## Description
